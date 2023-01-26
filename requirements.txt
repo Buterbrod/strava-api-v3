@@ -1,0 +1,2 @@
+nifi-python-swagger-client==1.5 # swagger_client
+requests==2.28
